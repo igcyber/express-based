@@ -1,11 +1,14 @@
 // import express
-const express = require('express');
+// const express = require('express');
+import express from 'express';
 
 // import CORS
-const cors = require('cors');
+// const cors = require('cors')
+import cors from 'cors';
 
 // import body-parser
-const bodyParser = require('body-parser');
+// const bodyParser = require('body-parser');
+import bodyParser from 'body-parser';
 
 // init app
 const app = express();
